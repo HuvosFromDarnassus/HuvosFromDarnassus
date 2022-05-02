@@ -7,3 +7,4 @@ Hi! I'm Daniel an 🔨 iOS developer and a 👨🏻‍💻 student. I love 🍏 
 ### 💬 How to contact me
 - Mail - danieltvorun@icloud.com
 - Telegram - @DanielTvorun
+- Reddit - u/HuvosFromDarnassus
