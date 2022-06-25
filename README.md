@@ -8,6 +8,8 @@ I'm Daniel an 🔨 iOS developer and a 👨🏻‍💻 student. I love 🍏 Appl
 - Email - danieltvorun@icloud.com
 - Telegram - @DanielTvorun
 - Reddit - u/HuvosFromDarnassus
+- [Stack Overflow](https://stackoverflow.com/users/19402122/daniel-tvorun)
 
 ### 🛠 Check out my projects
 - [iShelf](https://github.com/HuvosFromDarnassus/iShelf) - A simple wallpaper editor application for iPhone.
+- [Magical Very Various Messages](https://github.com/HuvosFromDarnassus/Magical-Very-Various-Messages) - Very simple and lightweight messenger using Firebase.
