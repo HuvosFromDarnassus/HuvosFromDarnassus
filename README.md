@@ -9,6 +9,7 @@ I am currently working in a startup.
 ### 💬 How to contact me
 - Email - danieltvorun@icloud.com
 - Telegram - @DanielTvorun
+- [Facebook](https://www.facebook.com/dtvorun)
 - Reddit - u/HuvosFromDarnassus
 - [Stack Overflow](https://stackoverflow.com/users/19402122/daniel-tvorun)
 
