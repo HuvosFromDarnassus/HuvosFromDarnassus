@@ -8,6 +8,7 @@ I'm Daniel an 🔨 iOS developer and a 👨🏻‍💻 student. I love 🍏 Appl
 
 ### 💬 How to contact me
 - ✉️ Email - danieltvorun@icloud.com
+- [ℹ️ Linkedin](https://www.linkedin.com/in/daniiltvorun) - Daniil Tvorun
 - [🧑🏻‍💻 Telegram](https://t.me/DanielTvorun) - @DanielTvorun
 - [👤 Facebook](https://www.facebook.com/dtvorun) - dtvorun
 - [🐥 Twitter](https://twitter.com/DanielTvorun) - @DanielTwitter
