@@ -11,7 +11,7 @@ I'm Daniel an 🔨 iOS developer and a 👨🏻‍💻 student. I love 🍏 Appl
 - [ℹ️ Linkedin](https://www.linkedin.com/in/daniiltvorun) - Daniil Tvorun
 - [🧑🏻‍💻 Telegram](https://t.me/DanielTvorun) - @DanielTvorun
 - [👤 Facebook](https://www.facebook.com/dtvorun) - dtvorun
-- [🐥 Twitter](https://twitter.com/DanielTvorun) - @DanielTwitter
+- [🐥 Twitter](https://twitter.com/DanielTvorun) - @DanielTvorun
 - [📷 Instagram](https://www.instagram.com/danieltvorun) - @danieltvorun
 - [👽 Reddit](https://www.reddit.com/user/HuvosFromDarnassus) - u/HuvosFromDarnassus
 - [⚙️ Stack Overflow](https://stackoverflow.com/users/19402122/daniel-tvorun)
