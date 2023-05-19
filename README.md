@@ -22,6 +22,8 @@ I'm Daniel an 🔨 iOS developer and a 👨🏻‍💻 student. I love 🍏 Appl
 - [Book AI: Auto Summaries Audio](https://apps.apple.com/app/id1665356140) - BooksAI reinvented reading and provide over 150 million book summaries in one app. Just write the title of the book and in seconds we will prepare a high-quality summary with key ideas and useful insights.
 - [ScanGPT: PDF Scanner with AI](https://apps.apple.com/app/id1673568397) - Scan anything, anytime with our AI-powered mobile scanner app! Fast, accurate, and user-friendly.
 - [Fluently AI: Speak Spanish](https://apps.apple.com/ge/app/fluently-speak-spanish-by-ai/id6446359241) - Upgrade your language skills with Fluently - your personal AI language coach. You'll receive personalized lessons with real-time grammar, pronunciation, and fluency feedback. Fluently is the most entertaining and cost-effective online language coach.
+- [Therapist AI: Online Chat CBT](https://apps.apple.com/ge/app/therapist-ai-online-chat-cbt/id6447895484) - With Therapist AI, you can: Talk through your problems, Ask questions and get help, Receive recommendations for mental health and well-being exercises.
+- [Rewrite: Sentence Corrector](https://apps.apple.com/ge/app/rewrite-sentence-corrector/id6448754772) - Rewrite is designed to be simple and minimalist, with an intuitive interface that makes it easy to improve your writing. Simply input your text, and Rewrite will provide you with an improved version that is free of grammatical errors and spelling mistakes.
 
 
 ### 🛠 Check out my 🐶pet-projects
